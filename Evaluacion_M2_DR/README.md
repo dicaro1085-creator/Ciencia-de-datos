@@ -1,4 +1,5 @@
 SISTEMA DE GESTIÓN DE CONTACTOS
+
 Este sistema ha sido desarrollado como parte de la evaluación del Módulo 2 para permitir el registro, edición, eliminación y búsqueda de contactos de manera eficiente. El objetivo principal es gestionar información personal de clientes de forma segura y organizada.
 
 El proyecto cumple con las siguientes funcionalidades generales:
